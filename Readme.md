@@ -2,12 +2,18 @@
 - DVHCVN
 
 ## Functions
+
+### Get list data
 - getProvinces()
 - getDistricts()
 - getWards()
+
+### Filter list data
 - getDistrictsByProvinceCode(provinceCode)
 - getWardsByDistrictCode(districtCode)
 - getWardsByProvinceCode(provinceCode)
+
+### Get detail data
 - getProvice(provinceCode)
 - getDistrict(districtCode)
 - getWard(wardCode)

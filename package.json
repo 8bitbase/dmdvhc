@@ -1,6 +1,6 @@
 {
   "name": "@8bitbase/dmdvhc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dmdvhc",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,8 @@
   "author": "Johnny",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^6.2.1"
+    "mocha": "^6.2.1",
+    "chai": "^4.3.6"
   },
   "directories": {
     "test": "test"
