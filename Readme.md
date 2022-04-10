@@ -1,6 +1,12 @@
 # Get data
 - DVHCVN
 
+![build and test workflow](https://github.com/8bitbase/dmdvhc/actions/workflows/github-actions.yml/badge.svg)
+![Languages](https://img.shields.io/github/languages/top/8bitbase/dmdvhc)
+![Version](https://img.shields.io/github/v/release/8bitbase/dmdvhc)
+![Release date](https://img.shields.io/github/release-date/8bitbase/dmdvhc)
+![Issues](https://img.shields.io/github/issues/8bitbase/dmdvhc)
+
 ## Functions
 
 ### Get list data
