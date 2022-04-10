@@ -1,0 +1,25 @@
+{
+  "name": "dmdvhc",
+  "version": "1.0.0",
+  "description": "dmdvhc",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "dmdvhc"
+  ],
+  "homepage": "https://github.com/8bitbase/dmdvhc#readme",
+  "bugs": {
+    "url": "https://github.com/8bitbase/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/8bitbase/dmdvhc.git"
+  },
+  "author": "Johnny",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.2.1"
+  }
+}
